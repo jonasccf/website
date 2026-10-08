@@ -357,10 +357,10 @@ p { margin: 0 0 16px; }
   justify-content: center;
   height: 62px;
   padding: 8px 18px;
-  background: rgba(250, 248, 243, 0.95);
+  background: #ffffff;
   border: 1px solid var(--line);
   border-radius: 6px;
-  opacity: 0.95;
+  opacity: 1;
   transition: opacity 0.2s;
 }
 .pub-logos a:hover { opacity: 1; text-decoration: none; }
