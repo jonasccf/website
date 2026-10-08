@@ -368,3 +368,7 @@ p { margin: 0 0 16px; }
 .pub-logos img { max-height: 32px; max-width: 160px; width: auto; height: auto; display: block; }
 .pub-logos img.sq { max-height: 44px; max-width: 100px; }
 .pub-logos img.wide { max-height: 24px; max-width: 200px; }
+
+.pub-logos.visit img { max-height: 44px; max-width: 200px; }
+.pub-logos.visit img.sq { max-height: 56px; max-width: 130px; }
+.pub-logos.visit a { height: 74px; padding: 10px 20px; }
