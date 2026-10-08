@@ -372,3 +372,5 @@ p { margin: 0 0 16px; }
 .pub-logos.visit img { max-height: 44px; max-width: 200px; }
 .pub-logos.visit img.sq { max-height: 56px; max-width: 130px; }
 .pub-logos.visit a { height: 74px; padding: 10px 20px; }
+
+.pub-logos img.xl { max-height: 46px; max-width: 170px; }
