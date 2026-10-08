@@ -344,3 +344,26 @@ p { margin: 0 0 16px; }
 .lang-toggle a:hover { color: var(--ink); text-decoration: none; }
 .lang-toggle a.on { background: var(--accent); color: var(--card); }
 .lang-toggle a.on:hover { color: var(--card); }
+
+.pub-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+.pub-logos a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 36px;
+  padding: 6px 14px;
+  background: rgba(250, 248, 243, 0.95);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  opacity: 0.75;
+  transition: opacity 0.2s;
+}
+.pub-logos a:hover { opacity: 1; text-decoration: none; }
+.pub-logos a.dark { background: #2a2620; }
+.pub-logos img { height: 20px; width: auto; display: block; }
+.pub-logos img.tall { height: 30px; }
