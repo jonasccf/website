@@ -365,5 +365,4 @@ p { margin: 0 0 16px; }
 }
 .pub-logos a:hover { opacity: 1; text-decoration: none; }
 .pub-logos a.dark { background: #2a2620; }
-.pub-logos img { height: 20px; width: auto; display: block; }
-.pub-logos img.tall { height: 30px; }
+.pub-logos img { max-height: 22px; max-width: 130px; width: auto; height: auto; display: block; }
