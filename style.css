@@ -355,7 +355,7 @@ p { margin: 0 0 16px; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 48px;
+  height: 62px;
   padding: 8px 18px;
   background: rgba(250, 248, 243, 0.95);
   border: 1px solid var(--line);
