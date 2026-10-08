@@ -360,7 +360,7 @@ p { margin: 0 0 16px; }
   background: rgba(250, 248, 243, 0.95);
   border: 1px solid var(--line);
   border-radius: 6px;
-  opacity: 0.75;
+  opacity: 0.95;
   transition: opacity 0.2s;
 }
 .pub-logos a:hover { opacity: 1; text-decoration: none; }
