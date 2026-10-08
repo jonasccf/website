@@ -355,8 +355,8 @@ p { margin: 0 0 16px; }
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 36px;
-  padding: 6px 14px;
+  height: 48px;
+  padding: 8px 18px;
   background: rgba(250, 248, 243, 0.95);
   border: 1px solid var(--line);
   border-radius: 6px;
@@ -365,6 +365,6 @@ p { margin: 0 0 16px; }
 }
 .pub-logos a:hover { opacity: 1; text-decoration: none; }
 .pub-logos a.dark { background: #2a2620; }
-.pub-logos img { max-height: 24px; max-width: 140px; width: auto; height: auto; display: block; }
-.pub-logos img.sq { max-height: 34px; max-width: 90px; }
-.pub-logos img.wide { max-height: 18px; max-width: 180px; }
+.pub-logos img { max-height: 32px; max-width: 160px; width: auto; height: auto; display: block; }
+.pub-logos img.sq { max-height: 44px; max-width: 100px; }
+.pub-logos img.wide { max-height: 24px; max-width: 200px; }
