@@ -271,6 +271,26 @@ p { margin: 0 0 16px; }
 .cv-what { font-weight: 500; }
 .cv-where { color: var(--muted); font-size: 0.9rem; }
 
+/* ---------- Kontakt oben (Sidebar + Startseite) ---------- */
+
+.side-contact {
+  margin-top: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  font-size: 0.88rem;
+}
+
+.side-contact a { color: var(--ink); }
+.side-contact a:hover { color: var(--accent); text-decoration: none; }
+
+.contact-top {
+  margin: -6px 0 26px;
+  font-size: 1.05rem;
+}
+
+.contact-top a { font-weight: 600; }
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 780px) {
